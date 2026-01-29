@@ -8,4 +8,10 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
   
+  ##TODO
+
+  Add a footer file with relevant links and information.
+  
+  Notify them that the site is not meant for actual purchase.
